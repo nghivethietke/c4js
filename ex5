@@ -1,0 +1,9 @@
+let n = promt('Tuoi cua ban');
+const m = 14;
+let tuChoi = 'Ban khong du tuoi';
+let dongY = 'Xem di nhe';
+if (n < m) {
+console.log(tuChoi)}
+else {
+console.log(dongY)
+}; 
