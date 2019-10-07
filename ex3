@@ -1,0 +1,51 @@
+\\section a
+let x = 0
+while (x < 7) {
+console.log(x)
+x ++
+}
+
+\\section b
+let n = prompt('Nhap 01 so')
+let m = 0 
+while (m <  n) {
+console.log(m)
+n ++
+}
+
+\\section c
+let n = prompt(('Nhap 01 so')
+let m = 3
+while (m < n){
+console.log(m)
+m++
+}
+
+
+\\section d
+let c = prompt('Nhap 01 so')
+let n = prompt('Nhap 01 so nua nhe')
+while (c < n){
+console.log(c)
+c++
+}
+
+
+\\section e
+let c = prompt('Nhap 01 so')
+let n = prompt('Nhap 01 so nua nhe')
+while (c < n){
+console.log(c)
+c = c + 3
+}
+
+\\section f
+let c = prompt('Nhap 01 so')
+let n = prompt('Nhap 01 so nua nhe')
+let s = prompt ('Nhap 01 so cuoi cung')
+while (c < n){
+console.log(c)
+c = c + s
+}
+
+\\how to force user to prompt value n <= 3 in section c, also restrict input value in other sections?
