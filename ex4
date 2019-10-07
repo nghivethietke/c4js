@@ -1,0 +1,8 @@
+\\
+let n = prompt('Nhap so bac giai thua')
+let m = 1
+let k = 1
+while (m <= n){
+m = m * k
+k++
+}
